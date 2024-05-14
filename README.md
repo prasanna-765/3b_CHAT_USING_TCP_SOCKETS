@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-SWETHA A
-212223220114
+PRASANNA A
+212223220078
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
